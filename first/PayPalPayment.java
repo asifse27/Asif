@@ -1,4 +1,4 @@
-//package first;
+package first;
 
 class PayPalPayment implements PaymentStrategy {
     public boolean pay(double amount) {
